@@ -13,13 +13,13 @@ This is the most basic yet most important equation in circuit analysis .Instead 
 
 ### What can it calculate
 
-*Voltage (V)
-*Current (I)
-*Resistance (R)
-*Power(P)
+* Voltage (V)
+* Current (I)
+* Resistance (R)
+* Power(P)
 
 ### Key features:
 
-*Menu-driven interface
-*Handles errors
-*Loop
+* Menu-driven interface
+* Handles errors
+* Loop
